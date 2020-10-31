@@ -1,4 +1,4 @@
-Homework 5, Lab 3, Econ B2000
+Homework 5, Lab 5, Econ B2000
 ================
 Christopher Tinevra, Group Members: Akimawe Kadiri, Nicole Kerrison,
 Mostafa Ragheb, Charles Reed
