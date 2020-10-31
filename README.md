@@ -107,7 +107,7 @@ to_be_predicted1$yhat <- predict(model1, newdata = to_be_predicted1)
 lines(yhat ~ AGE, data = to_be_predicted1)
 ```
 
-![](Homework-5_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+![](unnamed-chunk-2-1.png)<!-- -->
 
 The coefficient estimates for Model 1 linear regression demonstrates
 multiple income wages depending on educaltion level (high school degree,
