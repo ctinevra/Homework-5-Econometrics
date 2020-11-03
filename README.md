@@ -1,7 +1,7 @@
 Homework 5, Lab 5, Econ B2000
 ================
-Christopher Tinevra, Group Members: Isabela Vieira, Akimawe Kadiri, Nicole Kerrison,
-Mostafa Ragheb, Charles Reed
+Christopher Tinevra, Group Members: Akimawe Kadiri, Nicole Kerrison,
+Mostafa Ragheb, Charles Reid
 11/3/2020
 
 ``` r
